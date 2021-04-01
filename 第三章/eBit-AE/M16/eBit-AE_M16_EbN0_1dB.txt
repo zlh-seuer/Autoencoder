@@ -1,0 +1,16 @@
+Point: 0	Real:  -1.2306991       Image:   -0.44157338
+Point: 1	Real:  0.56133986       Image:   1.1655979
+Point: 2	Real:  -0.5313696       Image:   -0.12674992
+Point: 3	Real:  0.17319962       Image:   0.50395525
+Point: 4	Real:  -0.56447375      Image:   -1.1781211
+Point: 5	Real:  1.2235746        Image:   0.43001142
+Point: 6	Real:  -0.17171241      Image:   -0.5150602
+Point: 7	Real:  0.5300537        Image:   0.11347869
+Point: 8	Real:  -1.1912271       Image:   0.5574442
+Point: 9	Real:  -0.45244327      Image:   1.223657
+Point: 10	Real:  -0.51102924      Image:   0.17841272
+Point: 11	Real:  -0.12304543      Image:   0.51931286
+Point: 12	Real:  0.44277653       Image:   -1.2373773
+Point: 13	Real:  1.1803236        Image:   -0.57878894
+Point: 14	Real:  0.120721795      Image:   -0.5316773
+Point: 15	Real:  0.5119909        Image:   -0.18086772
